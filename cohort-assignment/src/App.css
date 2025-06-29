@@ -1,0 +1,5 @@
+@layer utilities {
+  .logo {
+    @apply h-10 w-10;
+  }
+}
